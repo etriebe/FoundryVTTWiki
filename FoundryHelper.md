@@ -15,6 +15,7 @@
 - [Resting](#resting)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Performance Issues](#performance-issues)
+- [Canvas/Navigation Bar](#canvasnavigation-bar)
 
 <!-- /code_chunk_output -->
 
@@ -160,3 +161,19 @@ Is your machine/browser struggling with performance issues?
 ![](2022-04-20-14-32-19.png)
 
 3. If things are still struggling, make sure you follow the instructions on [this page](https://prezi.com/view/Wpq1WQv92LC1KNwwAEyG/) to ensure your computer and browser are taking advantage of your machine fully.
+
+## Canvas/Navigation Bar
+
+1. Token Controls - 99% of the time and when wanting to move your token or, you should ensure the Token Controls and Select Token tool are selected.
+
+![](2022-04-20-15-18-54.png)
+
+2. Measurement Controls - Sometimes, like if you are a spellcaster figuring out where they could cast a spell, you need measurement controls. There are four templates (example spells in parenthesis): Circle (fireball), cone (cone of cold), rectangle (Thunderwave) and ray (Lightning Bolt). Just make sure you select and delete these once you're done measuring. Else you end up with your screen looking like this.
+
+![](2022-04-20-15-27-16.png)
+
+3. Drawing Tools - If you want to draw a shape, write text on a canvas, draw freehand to make a point, this is the place to do it. Same as before, just make sure you clean up what you don't want there long term before you switch back to token controls.
+
+4. Journal Notes - You probably won't use this set of controls.
+
+5. Sequencer Layer - You definitely won't use this set of controls. 
