@@ -6,6 +6,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Logging in](#logging-in)
+- [Audio/Video](#audiovideo)
 - [Opening your character sheet](#opening-your-character-sheet)
 - [Importing your character](#importing-your-character)
 - [Populating/using the hotbar](#populatingusing-the-hotbar)
@@ -22,6 +23,32 @@
 Choose your user and login with your password (shared offline).
 
 ![](2022-04-20-13-57-40.png)
+
+## Audio/Video
+
+HELP! My A/V isn't working!
+
+1. From your video screen icon, click the gear icon on the left
+
+![](2022-04-20-15-12-28.png)
+
+2. Ensure "Audio/Video Enabled" is selected and Voice Broadcasting mode is "Always Enabled", unless you are familiar with and prefer Push-To-Talk.
+
+![](2022-04-20-15-04-41.png)
+
+3. Ensure your correct video, audio input/output devices are selected here.
+
+![](2022-04-20-15-05-45.png)
+
+4. Ensure you aren't muted (bottom row, right microphone icon), that others aren't muted (bottom row, second from right speaker icon) and video is enabled (bottom row, middle camera icon)
+
+![](2022-04-20-15-12-28.png)
+
+For reference when those aren't enabled this is what it looks like. 
+
+![](2022-04-20-15-08-42.png)
+
+5. How do I look like that man above? Sorry, we can't all be Burt Reynolds.
 
 ## Opening your character sheet
 
