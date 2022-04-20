@@ -1,3 +1,22 @@
+## Table of Contents
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Table of Contents](#table-of-contents)
+- [Logging in](#logging-in)
+- [Opening your character sheet](#opening-your-character-sheet)
+- [Importing your character](#importing-your-character)
+- [Populating/using the hotbar](#populatingusing-the-hotbar)
+- [Combat](#combat)
+- [Character Sheet](#character-sheet)
+- [Resting](#resting)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Performance Issues](#performance-issues)
+
+<!-- /code_chunk_output -->
+
 ## Logging in
 
 Choose your user and login with your password (shared offline).
