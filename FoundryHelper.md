@@ -23,7 +23,7 @@
 
 Choose your user and login with your password (shared offline).
 
-![](2022-04-20-13-57-40.png)
+![](images/2022-04-20-13-57-40.png)
 
 ## Audio/Video
 
@@ -31,23 +31,23 @@ HELP! My A/V isn't working!
 
 1. From your video screen icon, click the gear icon on the left
 
-![](2022-04-20-15-12-28.png)
+![](images/2022-04-20-15-12-28.png)
 
 2. Ensure "Audio/Video Enabled" is selected and Voice Broadcasting mode is "Always Enabled", unless you are familiar with and prefer Push-To-Talk.
 
-![](2022-04-20-15-04-41.png)
+![](images/2022-04-20-15-04-41.png)
 
 3. Ensure your correct video, audio input/output devices are selected here.
 
-![](2022-04-20-15-05-45.png)
+![](images/2022-04-20-15-05-45.png)
 
 4. Ensure you aren't muted (bottom row, right microphone icon), that others aren't muted (bottom row, second from right speaker icon) and video is enabled (bottom row, middle camera icon)
 
-![](2022-04-20-15-12-28.png)
+![](images/2022-04-20-15-12-28.png)
 
 For reference when those aren't enabled this is what it looks like. 
 
-![](2022-04-20-15-08-42.png)
+![](images/2022-04-20-15-08-42.png)
 
 5. How do I look like that man above? Sorry, we can't all be Burt Reynolds.
 
@@ -55,11 +55,11 @@ For reference when those aren't enabled this is what it looks like.
 
 1. Find your token on the map and double click
 
-![](2022-04-20-13-59-51.png)
+![](images/2022-04-20-13-59-51.png)
 
 2. Find your actor on the actor tab
 
-![](2022-04-20-14-00-34.png)
+![](images/2022-04-20-14-00-34.png)
 
 ## Importing your character
 
@@ -67,37 +67,37 @@ So you updated your character on D&D beyond and want to pull changes over to fou
 
 1. Click on the black D&D Beyond button next to your character name
 
-![](2022-04-20-14-01-28.png)
+![](images/2022-04-20-14-01-28.png)
 
 2. Click on start import. Don't press anything else in this window unless you know what you're doing. 😃
 
-![](2022-04-20-14-02-01.png)
+![](images/2022-04-20-14-02-01.png)
 
 ## Populating/using the hotbar
 
 1. To add an item to the hotbar, click and drag the item from your character sheet and drop it into the slot you want it on the hotbar
 
-![](2022-04-20-14-04-05.png)
+![](images/2022-04-20-14-04-05.png)
 
 2. Click on the item to use it. That's it! Advantage/disadvantage modifiers also apply here. 
 
 3. Click on number on the very right side of the hotbar to have it fly out and expand. You can setup up to 5 hotbars of items. If you need more than that, you might have a problem but talk to me. 😃
 
-![](2022-04-20-14-28-02.png)
+![](images/2022-04-20-14-28-02.png)
 
 ## Combat
 
 1. Initiative - When the DM says so, click the "Ini" button right next to your AC.
 
-![](2022-04-20-14-17-38.png)
+![](images/2022-04-20-14-17-38.png)
 
 2. Targeting is *required* for making attacks in combat. In order to target, hold ALT (Windows) or OPTION (MacOS) and select the enemy token to attack. This allows me, as DM, to setup a lot more automation so combat moves more smoothly. You will end up with a target on the character token you are attempting to attack. Now you can roll your attack. You won't be able to attack unless you do this!
 
-![](2022-04-20-14-07-15.png)
+![](images/2022-04-20-14-07-15.png)
 
 3. Attacking - After targeting, choose your attack and click on either the hotbar or on your charater sheet to roll. Everything should happen automatically. If you were successful, you will see a card like this, which show you what your attack/damage rolls were. You can click on either of the roll formulas to see exactly what dice were rolled. 
 
-![](2022-04-20-14-10-56.png)
+![](images/2022-04-20-14-10-56.png)
 
 4. Advantage/disadvantage - Rolling with advantage can be achieved by holding ## shift** while clicking your attack button/hotbar. Rolling with disadvantage can be achieved by holding **control (Windows)/command (MacOS) while clicking your attack button/hotbar. Using a versatile attack can be done by holding V while attacking. Versatile attacks are like for a Longsword which can be wielded with 1 or 2 hands. The versatile attack would be done with 2 hands. If you want 2-handed to be the default and 1-handed to be versatile, talk with me and we can get this fixed up. 😃
 
@@ -105,48 +105,48 @@ So you updated your character on D&D beyond and want to pull changes over to fou
 a. Click your space bar to add waypoints to your move if you want to maneuver around walls. Right click to undo creating those waypoints.
 b. If you still can't get your token to move, either tell the DM to unpause the game, get it back on your turn or just have them move you. 😃
 
-![](2022-04-20-14-38-02.png)
+![](images/2022-04-20-14-38-02.png)
 
 ## Character Sheet
 
 0. Help! I can't modify my character sheet to do XYZ! Make sure the green lock on the bottom right is switched to red.
-![](2022-04-20-14-52-19.png)
+![](images/2022-04-20-14-52-19.png)
 
 1. Adding favorites - Right click an item on your sheet and select "Add Favorite" to get it added to show up in the Attributes page. The Actions page is pre-populated with a bunch of combat-specific actions but you can also add stuff by going to the inventory tab and doing a right click on an item and selecting "Add to Actions List"
 
-![](2022-04-20-14-16-25.png)
+![](images/2022-04-20-14-16-25.png)
 
-![](2022-04-20-14-16-39.png)
+![](images/2022-04-20-14-16-39.png)
 
 2. Skill checks - Click on any of the attributes, same rules for applying advantage/disadvantage as attacking. These can also be added to your hotbar if you make them all the time. 
 
 3. Modifying your avatar/token - Click the image to replace your token image. There are plenty of controls to paste in images, reference the web, etc. Go wild! If you want a super fancy looking token, talk to the DM. 😃
 
-![](2022-04-20-14-48-43.png)
+![](images/2022-04-20-14-48-43.png)
 
 4. Adding items - For the particular secion you want to add to, once the lock icon is red, click the magnifying glass and start typing to select an item
 
-![](2022-04-20-14-53-56.png)
+![](images/2022-04-20-14-53-56.png)
 
-![](2022-04-20-14-54-41.png)
+![](images/2022-04-20-14-54-41.png)
 
 5. Equipping items - Right click the item on the sheet, click equip.
 
 6. My character has special class feature Foo to keep track of uses - These are normally on the attributes page. As an example, the 2nd level half-orc fighter has relentless endurance, second wind and action surge to keep track of. This can be configured on D&D Beyond character import (see [Importing your character](#importing-your-character)
 
-![](2022-04-20-14-57-06.png)
+![](images/2022-04-20-14-57-06.png)
 
 ## Resting
 
 1. Open your character sheet and select the bed icon on the bottom right of your icon, then choose short or long rest.
 
-![](2022-04-20-14-24-24.png)
+![](images/2022-04-20-14-24-24.png)
 
 ## Keyboard Shortcuts
 
 Open configure controls on settings panel on the right side to view your keyboard shortcuts. You can also modify them from this page. 
 
-![](2022-04-20-14-31-10.png)
+![](images/2022-04-20-14-31-10.png)
 
 ## Performance Issues
 
@@ -154,11 +154,11 @@ Is your machine/browser struggling with performance issues?
 
 1. Click configure settings on the settings panel on the right side 
 
-![](2022-04-20-14-32-58.png)
+![](images/2022-04-20-14-32-58.png)
 
 2. Change performance mode to medium or low (probably start by going to medium) and switch your maximum framerate to something like 20 - 30
 
-![](2022-04-20-14-32-19.png)
+![](images/2022-04-20-14-32-19.png)
 
 3. If things are still struggling, make sure you follow the instructions on [this page](https://prezi.com/view/Wpq1WQv92LC1KNwwAEyG/) to ensure your computer and browser are taking advantage of your machine fully.
 
@@ -166,15 +166,15 @@ Is your machine/browser struggling with performance issues?
 
 1. Token Controls - 99% of the time and when wanting to move your token or, you should ensure the Token Controls and Select Token tool are selected.
 
-![](2022-04-20-15-18-54.png)
+![](images/2022-04-20-15-18-54.png)
 
 a. Always HP Dialog - This handy little dialog can be hidden if you don't use it to control HP, or aren't in combat to need to add/subtract hitpoints from your player. Click on the medical briefcase to make it disappear. HP can also be managed from the character sheet. 
 
-![](2022-04-20-15-28-18.png)
+![](images/2022-04-20-15-28-18.png)
 
 2. Measurement Controls - Sometimes, like if you are a spellcaster figuring out where they could cast a spell, you need measurement controls. There are four templates (example spells in parenthesis): Circle (fireball), cone (cone of cold), rectangle (Thunderwave) and ray (Lightning Bolt). Just make sure you select and delete these once you're done measuring. Else you end up with your screen looking like this.
 
-![](2022-04-20-15-27-16.png)
+![](images/2022-04-20-15-27-16.png)
 
 3. Drawing Tools - If you want to draw a shape, write text on a canvas, draw freehand to make a point, this is the place to do it. Same as before, just make sure you clean up what you don't want there long term before you switch back to token controls.
 
