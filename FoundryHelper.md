@@ -1,10 +1,10 @@
-**Logging in**
+##Logging in
 
 Choose your user and login with your password (shared offline).
 
 ![](2022-04-20-13-57-40.png)
 
-**Opening your character sheet**
+##Opening your character sheet
 
 1. Find your token on the map and double click
 
@@ -14,7 +14,7 @@ Choose your user and login with your password (shared offline).
 
 ![](2022-04-20-14-00-34.png)
 
-**Importing your character**
+##Importing your character
 
 So you updated your character on D&D beyond and want to pull changes over to foundry? Great!
 
@@ -26,7 +26,7 @@ So you updated your character on D&D beyond and want to pull changes over to fou
 
 ![](2022-04-20-14-02-01.png)
 
-**Populating/using the hotbar**
+##Populating/using the hotbar
 
 1. To add an item to the hotbar, click and drag the item from your character sheet and drop it into the slot you want it on the hotbar
 
@@ -38,7 +38,7 @@ So you updated your character on D&D beyond and want to pull changes over to fou
 
 ![](2022-04-20-14-28-02.png)
 
-**Combat**
+##Combat
 
 1. Initiative - When the DM says so, click the "Ini" button right next to your AC.
 
@@ -52,7 +52,7 @@ So you updated your character on D&D beyond and want to pull changes over to fou
 
 ![](2022-04-20-14-10-56.png)
 
-4. Advantage/disadvantage - Rolling with advantage can be achieved by holding **shift** while clicking your attack button/hotbar. Rolling with disadvantage can be achieved by holding **control (Windows)/command (MacOS)** while clicking your attack button/hotbar. Using a versatile attack can be done by holding V while attacking. Versatile attacks are like for a Longsword which can be wielded with 1 or 2 hands. The versatile attack would be done with 2 hands. If you want 2-handed to be the default and 1-handed to be versatile, talk with me and we can get this fixed up. :)
+4. Advantage/disadvantage - Rolling with advantage can be achieved by holding ##shift** while clicking your attack button/hotbar. Rolling with disadvantage can be achieved by holding **control (Windows)/command (MacOS) while clicking your attack button/hotbar. Using a versatile attack can be done by holding V while attacking. Versatile attacks are like for a Longsword which can be wielded with 1 or 2 hands. The versatile attack would be done with 2 hands. If you want 2-handed to be the default and 1-handed to be versatile, talk with me and we can get this fixed up. :)
 
 5. Movement - When it is your turn, drag and drop your token to where you want to go. If your movement is being restricted, possibly by a wall or other charater, move around those. While moving your token, you can see how far you have moved so far this turn. Green represents your normal movement speed (unless in difficult terrain), yellow would be if you have teh ability to dash, either as a Bonus Action like a Rogue/Monk with Ki or as an Action dash. 
 a. Click your space bar to add waypoints to your move if you want to maneuver around walls. Right click to undo creating those waypoints.
@@ -60,7 +60,7 @@ b. If you still can't get your token to move, either tell the DM to unpause the 
 
 ![](2022-04-20-14-38-02.png)
 
-**Character Sheet**
+##Character Sheet
 
 1. Adding favorites - Right click an item on your sheet and select "Add Favorite" to get it added to show up in the Attributes page. The Actions page is pre-populated with a bunch of combat-specific actions.
 
@@ -70,19 +70,19 @@ b. If you still can't get your token to move, either tell the DM to unpause the 
 
 1. Skill checks - Click on any of the attributes, same rules for applying advantage/disadvantage as attacking. These can also be added to your hotbar if you make them all the time. 
 
-**Resting**
+##Resting
 
 1. Open your character sheet and select the bed icon on the bottom right of your icon, then choose short or long rest.
 
 ![](2022-04-20-14-24-24.png)
 
-**Keyboard Shortcuts**
+##Keyboard Shortcuts
 
 Open configure controls on settings panel on the right side to view your keyboard shortcuts. You can also modify them from this page. 
 
 ![](2022-04-20-14-31-10.png)
 
-**Performance Issues**
+##Performance Issues
 
 Is your machine/browser struggling with performance issues?
 
