@@ -87,7 +87,11 @@ b. If you still can't get your token to move, either tell the DM to unpause the 
 
 ![](2022-04-20-14-16-39.png)
 
-1. Skill checks - Click on any of the attributes, same rules for applying advantage/disadvantage as attacking. These can also be added to your hotbar if you make them all the time. 
+2. Skill checks - Click on any of the attributes, same rules for applying advantage/disadvantage as attacking. These can also be added to your hotbar if you make them all the time. 
+
+3. Modifying your avatar/token - Click the image to replace your token image. There are plenty of controls to paste in images, reference the web, etc. Go wild! If you want a super fancy looking token, talk to the DM. :)
+
+![](2022-04-20-14-48-43.png)
 
 ## Resting
 
