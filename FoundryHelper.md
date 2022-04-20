@@ -41,7 +41,7 @@ So you updated your character on D&D beyond and want to pull changes over to fou
 
 ![](2022-04-20-14-01-28.png)
 
-2. Click on start import. Don't press anything else in this window unless you know what you're doing. :)
+2. Click on start import. Don't press anything else in this window unless you know what you're doing. 😃
 
 ![](2022-04-20-14-02-01.png)
 
@@ -53,7 +53,7 @@ So you updated your character on D&D beyond and want to pull changes over to fou
 
 2. Click on the item to use it. That's it! Advantage/disadvantage modifiers also apply here. 
 
-3. Click on number on the very right side of the hotbar to have it fly out and expand. You can setup up to 5 hotbars of items. If you need more than that, you might have a problem but talk to me. :)
+3. Click on number on the very right side of the hotbar to have it fly out and expand. You can setup up to 5 hotbars of items. If you need more than that, you might have a problem but talk to me. 😃
 
 ![](2022-04-20-14-28-02.png)
 
@@ -71,17 +71,20 @@ So you updated your character on D&D beyond and want to pull changes over to fou
 
 ![](2022-04-20-14-10-56.png)
 
-4. Advantage/disadvantage - Rolling with advantage can be achieved by holding ## shift** while clicking your attack button/hotbar. Rolling with disadvantage can be achieved by holding **control (Windows)/command (MacOS) while clicking your attack button/hotbar. Using a versatile attack can be done by holding V while attacking. Versatile attacks are like for a Longsword which can be wielded with 1 or 2 hands. The versatile attack would be done with 2 hands. If you want 2-handed to be the default and 1-handed to be versatile, talk with me and we can get this fixed up. :)
+4. Advantage/disadvantage - Rolling with advantage can be achieved by holding ## shift** while clicking your attack button/hotbar. Rolling with disadvantage can be achieved by holding **control (Windows)/command (MacOS) while clicking your attack button/hotbar. Using a versatile attack can be done by holding V while attacking. Versatile attacks are like for a Longsword which can be wielded with 1 or 2 hands. The versatile attack would be done with 2 hands. If you want 2-handed to be the default and 1-handed to be versatile, talk with me and we can get this fixed up. 😃
 
 5. Movement - When it is your turn, drag and drop your token to where you want to go. If your movement is being restricted, possibly by a wall or other charater, move around those. While moving your token, you can see how far you have moved so far this turn. Green represents your normal movement speed (unless in difficult terrain), yellow would be if you have teh ability to dash, either as a Bonus Action like a Rogue/Monk with Ki or as an Action dash. 
 a. Click your space bar to add waypoints to your move if you want to maneuver around walls. Right click to undo creating those waypoints.
-b. If you still can't get your token to move, either tell the DM to unpause the game, get it back on your turn or just have them move you. :)
+b. If you still can't get your token to move, either tell the DM to unpause the game, get it back on your turn or just have them move you. 😃
 
 ![](2022-04-20-14-38-02.png)
 
 ## Character Sheet
 
-1. Adding favorites - Right click an item on your sheet and select "Add Favorite" to get it added to show up in the Attributes page. The Actions page is pre-populated with a bunch of combat-specific actions.
+0. Help! I can't modify my character sheet to do XYZ! Make sure the green lock on the bottom right is switched to red.
+![](2022-04-20-14-52-19.png)
+
+1. Adding favorites - Right click an item on your sheet and select "Add Favorite" to get it added to show up in the Attributes page. The Actions page is pre-populated with a bunch of combat-specific actions but you can also add stuff by going to the inventory tab and doing a right click on an item and selecting "Add to Actions List"
 
 ![](2022-04-20-14-16-25.png)
 
@@ -89,9 +92,21 @@ b. If you still can't get your token to move, either tell the DM to unpause the 
 
 2. Skill checks - Click on any of the attributes, same rules for applying advantage/disadvantage as attacking. These can also be added to your hotbar if you make them all the time. 
 
-3. Modifying your avatar/token - Click the image to replace your token image. There are plenty of controls to paste in images, reference the web, etc. Go wild! If you want a super fancy looking token, talk to the DM. :)
+3. Modifying your avatar/token - Click the image to replace your token image. There are plenty of controls to paste in images, reference the web, etc. Go wild! If you want a super fancy looking token, talk to the DM. 😃
 
 ![](2022-04-20-14-48-43.png)
+
+4. Adding items - For the particular secion you want to add to, once the lock icon is red, click the magnifying glass and start typing to select an item
+
+![](2022-04-20-14-53-56.png)
+
+![](2022-04-20-14-54-41.png)
+
+5. Equipping items - Right click the item on the sheet, click equip.
+
+6. My character has special class feature Foo to keep track of uses - These are normally on the attributes page. As an example, the 2nd level half-orc fighter has relentless endurance, second wind and action surge to keep track of. This can be configured on D&D Beyond character import (see [Importing your character](#importing-your-character)
+
+![](2022-04-20-14-57-06.png)
 
 ## Resting
 
