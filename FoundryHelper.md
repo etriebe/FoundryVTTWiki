@@ -168,6 +168,10 @@ Is your machine/browser struggling with performance issues?
 
 ![](2022-04-20-15-18-54.png)
 
+a. Always HP Dialog - This handy little dialog can be hidden if you don't use it to control HP, or aren't in combat to need to add/subtract hitpoints from your player. Click on the medical briefcase to make it disappear. HP can also be managed from the character sheet. 
+
+![](2022-04-20-15-28-18.png)
+
 2. Measurement Controls - Sometimes, like if you are a spellcaster figuring out where they could cast a spell, you need measurement controls. There are four templates (example spells in parenthesis): Circle (fireball), cone (cone of cold), rectangle (Thunderwave) and ray (Lightning Bolt). Just make sure you select and delete these once you're done measuring. Else you end up with your screen looking like this.
 
 ![](2022-04-20-15-27-16.png)
