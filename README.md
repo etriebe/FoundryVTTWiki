@@ -184,3 +184,9 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 4. Journal Notes - You probably won't use this set of controls.
 
 5. Sequencer Layer - You definitely won't use this set of controls. 
+
+## Token HUD
+
+1. Lighting a torch - Right click on your token, click the flame icon on the upper right.
+
+![](images/Torch.webp)
