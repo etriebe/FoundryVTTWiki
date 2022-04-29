@@ -197,3 +197,6 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 
 ![](images/ArgonHUDAddEquipSets.webp)
 
+2. Toggling the combat HUD - Right click your token and click the two swords in the upper left, right below torch OR click the same icon on the upper left in the token controls
+
+![](images/ArgonHUDToggleHUD.webp)
