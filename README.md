@@ -214,3 +214,7 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 3. Casting spells and using class features - Click on spells. It'll pop up the spells you have equipped. You can see how many spell slots of each type you have. You can also use items or see different features you have available as a bonus action.
 
 ![](images/ArgonHUDCastSpellsUseFeatures.webp)
+
+4. The combat HUD is too big - Go to settings, module settings and change the scale to be something smaller. Make sure to toggle the HUD on/off and it'll resize. 
+
+![](images/ArgonHUDChangeScale.webp)
