@@ -218,3 +218,7 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 4. The combat HUD is too big - Go to settings, module settings and change the scale to be something smaller. Make sure to toggle the HUD on/off and it'll resize. 
 
 ![](images/ArgonHUDChangeScale.webp)
+
+5. Tracking how many squares you have moved - The section right next to your pictures has the number of squares of movement you can use in a turn. As you move, it'll track and decrease that number. 
+
+![](images/ArgonHUDMovementSquares.webp)
