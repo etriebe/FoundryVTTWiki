@@ -204,3 +204,7 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 3. Switching sets and attacking - Click on the different set you want to equip. You'll notice that your items are correctly equipped, your AC changes (if appropriate). Then click on the icon of the weapon you want to attack with and it'll make the attack role with the weapon you currently have equipped. Advantage/Disadvantage rules apply.
 
 ![](images/ArgonHUDSetSwitchAndAttack.webp)
+
+3. Casting spells and using class features - Click on spells. It'll pop up the spells you have equipped. You can see how many spell slots of each type you have. You can also use items or see different features you have available as a bonus action.
+
+![](images/ArgonHUDCastSpellsUseFeatures.webp)
