@@ -19,6 +19,8 @@ A set of wikis for using FoundryVTT within my VTT games.
   - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [Performance Issues](#performance-issues)
   - [Canvas/Navigation Bar](#canvasnavigation-bar)
+  - [Token HUD](#token-hud)
+  - [Argon Combat HUD](#argon-combat-hud)
 
 <!-- /code_chunk_output -->
 
@@ -138,6 +140,10 @@ b. If you still can't get your token to move, either tell the DM to unpause the 
 6. My character has special class feature Foo to keep track of uses - These are normally on the attributes page. As an example, the 2nd level half-orc fighter has relentless endurance, second wind and action surge to keep track of. This can be configured on D&D Beyond character import (see [Importing your character](#importing-your-character)
 
 ![](images/2022-04-20-14-57-06.png)
+
+7. How many spell slots do I have? - Open your character sheet, click spellbook.
+
+![](images/2022-04-29-09-00-56.png)
 
 ## Resting
 
