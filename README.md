@@ -200,3 +200,7 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 2. Toggling the combat HUD - Right click your token and click the two swords in the upper left, right below torch OR click the same icon on the upper left in the token controls
 
 ![](images/ArgonHUDToggleHUD.webp)
+
+3. Switching sets and attacking - Click on the different set you want to equip. You'll notice that your items are correctly equipped, your AC changes (if appropriate). Then click on the icon of the weapon you want to attack with and it'll make the attack role with the weapon you currently have equipped. Advantage/Disadvantage rules apply.
+
+![](images/ArgonHUDSetSwitchAndAttack.webp)
