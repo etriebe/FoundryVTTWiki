@@ -21,6 +21,7 @@ A set of wikis for using FoundryVTT within my VTT games.
   - [Canvas/Navigation Bar](#canvasnavigation-bar)
   - [Token HUD](#token-hud)
   - [Argon Combat HUD](#argon-combat-hud)
+  - [Calendar](#calendar)
 
 <!-- /code_chunk_output -->
 
@@ -222,3 +223,7 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 5. Tracking how many squares you have moved - The section right next to your pictures has the number of squares of movement you can use in a turn. As you move, it'll track and decrease that number. 
 
 ![](images/ArgonHUDMovementSquares.webp)
+
+## Calendar
+
+1. Adding notes to the calendar - Click on the 6th icon on the token controls that looks like a calendar. You can add notes for a particular day to keep track of what happened and when it happened. 
