@@ -190,3 +190,10 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 1. Lighting a torch - Right click on your token, click the flame icon on the upper right.
 
 ![](images/Torch.webp)
+
+## Argon Combat HUD
+
+1. Setting up equipment sets - Open your character sheet and drag the weapon/item you want to create an equipment set into one of the set of boxes above your character image. Each is a set of two, so you can equip two one-handed items or one two-handed item. In this video I create one set with a glaive and one with a longsword and shield.
+
+![](images/ArgonHUDAddEquipSets.webp)
+
