@@ -22,6 +22,7 @@ A set of wikis for using FoundryVTT within my VTT games.
   - [Token HUD](#token-hud)
   - [Argon Combat HUD](#argon-combat-hud)
   - [Calendar](#calendar)
+  - [Random image from someone else](#random-image-from-someone-else)
 
 <!-- /code_chunk_output -->
 
@@ -227,3 +228,6 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 ## Calendar
 
 1. Adding notes to the calendar - Click on the 6th icon on the token controls that looks like a calendar. You can add notes for a particular day to keep track of what happened and when it happened. 
+
+## Random image from someone else
+![](images/2022-04-29-10-59-04.png)
