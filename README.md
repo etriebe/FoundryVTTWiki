@@ -8,6 +8,7 @@ A set of wikis for using FoundryVTT within my VTT games.
 
 - [FoundryVTTWiki](#foundryvttwiki)
   - [Table of Contents](#table-of-contents)
+  - [Left Click to Release](#left-click-to-release)
   - [Logging in](#logging-in)
   - [Audio/Video](#audiovideo)
   - [Opening your character sheet](#opening-your-character-sheet)
@@ -25,6 +26,12 @@ A set of wikis for using FoundryVTT within my VTT games.
   - [Random image from someone else](#random-image-from-someone-else)
 
 <!-- /code_chunk_output -->
+
+## Left Click to Release
+
+This option is a preference, but I hate the default behavior where left click on mouse doesn't release a token. This might just be far more annoying for a GM, though.
+
+![](2023-08-25-10-39-21.png)
 
 ## Logging in
 
