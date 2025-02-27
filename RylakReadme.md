@@ -10,7 +10,6 @@ A set of wikis for using FoundryVTT within my VTT games.
   - [Table of Contents](#table-of-contents)
   - [Left Click to Release](#left-click-to-release)
   - [Logging in](#logging-in)
-  - [Audio/Video](#audiovideo)
   - [Opening your character sheet](#opening-your-character-sheet)
   - [Importing your character](#importing-your-character)
   - [Populating/using the hotbar](#populatingusing-the-hotbar)
@@ -21,9 +20,6 @@ A set of wikis for using FoundryVTT within my VTT games.
   - [Performance Issues](#performance-issues)
   - [Canvas/Navigation Bar](#canvasnavigation-bar)
   - [Token HUD](#token-hud)
-  - [Argon Combat HUD](#argon-combat-hud)
-  - [Calendar](#calendar)
-  - [Random image from someone else](#random-image-from-someone-else)
 
 <!-- /code_chunk_output -->
 
@@ -38,32 +34,6 @@ This option is a preference, but I hate the default behavior where left click on
 Choose your user and login with your password (shared offline).
 
 ![](images/2022-04-20-13-57-40.png)
-
-## Audio/Video
-
-HELP! My A/V isn't working!
-
-1. From your video screen icon, click the gear icon on the left
-
-![](images/2022-04-20-15-12-28.png)
-
-2. Ensure "Audio/Video Enabled" is selected and Voice Broadcasting mode is "Always Enabled", unless you are familiar with and prefer Push-To-Talk.
-
-![](images/2022-04-20-15-04-41.png)
-
-3. Ensure your correct video, audio input/output devices are selected here.
-
-![](images/2022-04-20-15-05-45.png)
-
-4. Ensure you aren't muted (bottom row, right microphone icon), that others aren't muted (bottom row, second from right speaker icon) and video is enabled (bottom row, middle camera icon)
-
-![](images/2022-04-20-15-12-28.png)
-
-For reference when those aren't enabled this is what it looks like. 
-
-![](images/2022-04-20-15-08-42.png)
-
-5. How do I look like that man above? Sorry, we can't all be Burt Reynolds.
 
 ## Opening your character sheet
 
@@ -205,36 +175,3 @@ a. Always HP Dialog - This handy little dialog can be hidden if you don't use it
 1. Lighting a torch - Right click on your token, click the flame icon on the upper right.
 
 ![](images/Torch.webp)
-
-## Argon Combat HUD
-
-1. Setting up equipment sets - Open your character sheet and drag the weapon/item you want to create an equipment set into one of the set of boxes above your character image. Each is a set of two, so you can equip two one-handed items or one two-handed item. In this video I create one set with a glaive and one with a longsword and shield.
-
-![](images/ArgonHUDAddEquipSets.webp)
-
-2. Toggling the combat HUD - Right click your token and click the two swords in the upper left, right below torch OR click the same icon on the upper left in the token controls
-
-![](images/ArgonHUDToggleHUD.webp)
-
-3. Switching sets and attacking - Click on the different set you want to equip. You'll notice that your items are correctly equipped, your AC changes (if appropriate). Then click on the icon of the weapon you want to attack with and it'll make the attack role with the weapon you currently have equipped. Advantage/Disadvantage rules apply.
-
-![](images/ArgonHUDSetSwitchAndAttack.webp)
-
-3. Casting spells and using class features - Click on spells. It'll pop up the spells you have equipped. You can see how many spell slots of each type you have. You can also use items or see different features you have available as a bonus action.
-
-![](images/ArgonHUDCastSpellsUseFeatures.webp)
-
-4. The combat HUD is too big - Go to settings, module settings and change the scale to be something smaller. Make sure to toggle the HUD on/off and it'll resize. 
-
-![](images/ArgonHUDChangeScale.webp)
-
-5. Tracking how many squares you have moved - The section right next to your pictures has the number of squares of movement you can use in a turn. As you move, it'll track and decrease that number. 
-
-![](images/ArgonHUDMovementSquares.webp)
-
-## Calendar
-
-1. Adding notes to the calendar - Click on the 6th icon on the token controls that looks like a calendar. You can add notes for a particular day to keep track of what happened and when it happened. 
-
-## Random image from someone else
-![](images/2022-04-29-10-59-04.png)
