@@ -9,6 +9,11 @@ Module will show all damage that has happened to all PCs/NPCs and give the optio
 ![](damage-log.gif)
 https://foundryvtt.com/packages/damage-log
 
+# Dice Tray
+
+Click the buttons to roll custom dice. It'll build the formula for you and you can add on to it as you so wish.
+![](dice-tray.webp)
+
 # Drag Ruler / DnD5e Drag Ruler Integration
 
 Press space while dragging your token to set waypoints as you are moving like in the picture. 
